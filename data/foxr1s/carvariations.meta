@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>foxr1s</modelName>
+      <colors>
+	  <Item>
+          <indices content="char_array">
+            63
+            3
+            3
+            4
+			4
+			4 
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            52
+            99
+            3
+            4
+			4
+			4 
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="0" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="0" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="0" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	 <Item>
+      <modelName>foxr1s2</modelName>
+      <colors>
+	  <Item>
+          <indices content="char_array">
+            111
+            3
+            3
+            153
+			4
+			4 
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            147
+            3
+            3
+            153
+			4
+			4 
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="0" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="0" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="0" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>foxr1t</modelName>
+      <colors>
+	  <Item>
+          <indices content="char_array">
+            151
+            104
+            3
+            4
+			4
+			4 
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+            99
+            3
+            4
+			4
+			4 
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="0" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="0" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="0" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>foxr1t2</modelName>
+      <colors>
+	  <Item>
+          <indices content="char_array">
+            111
+            104
+            3
+            153
+			4
+			4 
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+            99
+            3
+            153
+			4
+			4 
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="0" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="0" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="0" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<CVehicleModelInfoVarGlobal>
+  <Lights>
+  </Lights>
+  <Sirens>
+ </Sirens>
+  <Kits>
+		<Item>
+			<kitName>3500_3500hd_modkit</kitName>
+			<id value="3500" />	 	  
+			<kitType>MKT_STANDARD</kitType>
+			<visibleMods>
+				<Item>
+					<modelName>3500hd_bumper_1</modelName>
+					<modShopLabel>3500HD_BUMPER_1</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+					  <Item>bumper_f</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="false" />
+				</Item>
+				<Item>
+					<modelName>3500hd_bumper_2</modelName>
+					<modShopLabel>3500HD_BUMPER_2</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+					  <Item>bumper_f</Item>
+					  <Item>extra_1</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="true" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="false" />
+				</Item>
+				<Item>
+					<modelName>3500hd_bumper_3</modelName>
+					<modShopLabel>3500HD_BUMPER_3</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+					  <Item>bumper_r</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="false" />
+				</Item>
+				<Item>
+					<modelName>ramptek_a</modelName>
+					<modShopLabel>RAMPTEK_A</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+					</turnOffBones>
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="10" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="false" />
+				</Item>
+				<Item>
+					<modelName>ramptek_b</modelName>
+					<modShopLabel>RAMPTEK_B</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+					</turnOffBones>
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_2</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="60" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="false" />
+				</Item>
+				<Item>
+					<modelName>husky_toolbox</modelName>
+					<modShopLabel>HUSKY_TOOLBOX</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+					</turnOffBones>
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_3</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="5" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="false" />
+				</Item>
+				<Item>
+					<modelName>bed_cover</modelName>
+					<modShopLabel>BED_COVER</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+					</turnOffBones>
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_5</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="false" />
+				</Item>
+				<Item>
+					<modelName>5th_wheel</modelName>
+					<modShopLabel>5TH_WHEEL</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+					</turnOffBones>
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_4</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="5" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="false" />
+				</Item>
+				<Item>
+					<modelName>bed_camper</modelName>
+					<modShopLabel>BED_CAMPER</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+					<Item>boot</Item>
+					<Item>extra_2</Item>
+					</turnOffBones>
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_6</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="75" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="false" />
+				</Item>
+				<Item>
+					<modelName>dirt_pile</modelName>
+					<modShopLabel>DIRT_PILE</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+					</turnOffBones>
+					<type>VMT_INTERIOR1</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_4</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="false" />
+				</Item>
+			</visibleMods>
+			<linkMods />
+			<statMods />
+			<slotNames />
+			<liveryNames />
+      	</Item>
+  	</Kits>
+</CVehicleModelInfoVarGlobal>

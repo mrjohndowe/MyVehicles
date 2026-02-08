@@ -1,0 +1,16 @@
+print("Trailer Handling ^1Has Authenticated ^2Successfully! ^0By ^1MrJohnDowe! ^7")
+
+-- Resource stuff
+name 'Trailer Handling System'
+description 'Trailer Handling Script By MrJohnDowe'
+version 'v1'
+author 'MrJohnDowe'
+
+fx_version('bodacious')
+game('gta5')
+
+files({
+	'data/**/handling.meta',
+})
+
+data_file('HANDLING_FILE')('data/**/handling.meta')
